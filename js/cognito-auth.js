@@ -1,5 +1,5 @@
 /*global WildRydes _config AmazonCognitoIdentity AWSCognito*/
-import 'crypto-js/lib-typedarrays';
+
 
 var WildRydes = window.WildRydes || {};
 
